@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect } from "react"
-import Layout from "@/components/layout"
+import SharedLayout from "@/components/shared-layout"
 import * as gtag from "@/lib/gtag"
 
 export default function LP1() {
