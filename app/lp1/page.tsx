@@ -22,7 +22,7 @@ export default function LP1() {
   }
 
   return (
-    <Layout>
+    
       <div className="max-w-2xl mx-auto">
         <h1 className="text-4xl font-bold mb-6">Landing Page 1</h1>
         <p className="text-xl mb-4">This is the first landing page. It's perfect for product A.</p>
@@ -33,7 +33,7 @@ export default function LP1() {
           Learn More About Product A
         </button>
       </div>
-    </Layout>
+    
   )
 }
 
