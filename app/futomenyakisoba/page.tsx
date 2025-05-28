@@ -54,7 +54,7 @@ export default function FutomenyakisobaPage() {
             防災備蓄など幅広く活躍中！
           </h2>
           <p className="text-sm sm:text-lg mb-8 sm:mb-12 max-w-3xl mx-auto leading-relaxed">
-            極太麺ソース焼きそばセットは、もちもちの食感と食べ応え抜群の極太麺が特徴。午後2時までの注文で即日発送、しかも常温で5ヶ月間保存可能なので飲食店やイベント運営時の在庫管理も容易です。一食あたり約86円（税込・送料込み※一部地域・離島除く）という経済性も魅力で、利益率アップにも貢献します。調理が簡単なのに本格的な味わいが楽しめるため、店舗の看板メニューやイベントの即戦力として幅広くご活用いただけます。
+            極太麺ソース焼きそばセットは、もちもちの食感と食べ応え抜群の極太麺が特徴。午後2時までの注文で即日発送、しかも常温で5ヶ月間保存可能なので飲食店やイベント運営時の在庫管理も容易です。一食あたり約98円（税込・送料込み※一部地域・離島除く）という経済性も魅力で、利益率アップにも貢献します。調理が簡単なのに本格的な味わいが楽しめるため、店舗の看板メニューやイベントの即戦力として幅広くご活用いただけます。
           </p>
           <div className="max-w-3xl mx-auto mb-8 sm:mb-12">
             <Image
@@ -104,7 +104,7 @@ export default function FutomenyakisobaPage() {
                 <p className="text-sm sm:text-base mb-2">常温長期保存5ヶ月</p>
                 <p className="text-sm sm:text-base mb-4">飲食店・イベント向け業務用セット</p>
                 <div className="flex items-center justify-between">
-                  <p className="text-xl sm:text-2xl font-bold">¥6,900</p>
+                  <p className="text-xl sm:text-2xl font-bold">¥7,840</p>
                   <p className="text-xl sm:text-2xl font-bold">送料無料</p>
                 </div>
               </div>
@@ -125,7 +125,7 @@ export default function FutomenyakisobaPage() {
                 <p className="text-sm sm:text-base mb-2">非常食・備蓄食にも</p>
                 <p className="text-sm sm:text-base mb-4">ご家庭用おためしセット</p>
                 <div className="flex items-center justify-between">
-                  <p className="text-xl sm:text-2xl font-bold">¥980</p>
+                  <p className="text-xl sm:text-2xl font-bold">¥1,000</p>
                   <p className="text-xl sm:text-2xl font-bold">送料無料</p>
                 </div>
               </div>
@@ -176,7 +176,7 @@ export default function FutomenyakisobaPage() {
               />
               <h3 className="text-lg sm:text-xl font-bold mb-2">Point 3：高利益率＆簡単調理で業務用に最適</h3>
               <p className="text-xs sm:text-sm text-left mx-1 leading-relaxed">
-                業務用の80食セットでは、1食あたり約86円（税込み）と非常にコストパフォーマンスが高く、飲食店やイベント出店の際にも高い利益率を確保できます。焼きそばは回転率が高く、多くの来客に短時間で提供できるため、屋台や露店営業でも人気のメニューです。さらに、茹で済み麺なので調理時間が短縮され、忙しい時間帯でもスムーズなオペレーションが可能になります。手軽に本格的な焼きそばを提供できることから、多くのプロの現場で導入されています。
+                業務用の80食セットでは、1食あたり約98円（税込み）と非常にコストパフォーマンスが高く、飲食店やイベント出店の際にも高い利益率を確保できます。焼きそばは回転率が高く、多くの来客に短時間で提供できるため、屋台や露店営業でも人気のメニューです。さらに、茹で済み麺なので調理時間が短縮され、忙しい時間帯でもスムーズなオペレーションが可能になります。手軽に本格的な焼きそばを提供できることから、多くのプロの現場で導入されています。
               </p>
             </div>
           </div>
