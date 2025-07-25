@@ -547,15 +547,9 @@ export default function BasashiLP() {
                 />
               </a>
               <h3 className="font-bold mb-2 text-sm sm:text-base">Yahoo!ショッピング</h3>
-              <p className="text-xs sm:text-sm text-gray-600 mb-2">
+              <p className="text-xs sm:text-sm text-gray-600">
                 PayPayポイントが貯まる使えるショッピングモールはこちら
               </p>
-              <div className="bg-red-600 text-white py-2 px-3 rounded-md font-bold mx-auto max-w-[250px] animate-pulse">
-                <p className="text-sm">先着100セット限り。</p>
-                <p className="text-sm">300円クーポン発行中。</p>
-                <p className="text-sm">1980円→1680円！</p>
-                <p className="text-xs">(数量になり次第終了)</p>
-              </div>
             </div>
 
             {/* 楽天市場 */}
@@ -576,15 +570,9 @@ export default function BasashiLP() {
                 />
               </a>
               <h3 className="font-bold mb-2 text-sm sm:text-base">楽天市場</h3>
-              <p className="text-xs sm:text-sm text-gray-600 mb-2">
+              <p className="text-xs sm:text-sm text-gray-600">
                 楽天ポイントが使える国内最大級のショッピングモールはこちら
               </p>
-              <div className="bg-blue-600 text-white py-2 px-3 rounded-md font-bold mx-auto max-w-[250px] animate-pulse">
-                <p className="text-sm">先着100セット限り。</p>
-                <p className="text-sm">300円クーポン発行中。</p>
-                <p className="text-sm">1980円→1680円！</p>
-                <p className="text-xs">(数量になり次第終了)</p>
-              </div>
             </div>
 
             {/* Amazon */}
@@ -605,13 +593,7 @@ export default function BasashiLP() {
                 />
               </a>
               <h3 className="font-bold mb-2 text-sm sm:text-base">Amazon</h3>
-              <p className="text-xs sm:text-sm text-gray-600 mb-2">世界最大のショッピングモールでのお買い物はこちら</p>
-              <div className="bg-green-600 text-white py-2 px-3 rounded-md font-bold mx-auto max-w-[250px] animate-pulse">
-                <p className="text-sm">先着100セット限り。</p>
-                <p className="text-sm">300円クーポン発行中。</p>
-                <p className="text-sm">1980円→1680円！</p>
-                <p className="text-xs">(数量になり次第終了)</p>
-              </div>
+              <p className="text-xs sm:text-sm text-gray-600">世界最大のショッピングモールでのお買い物はこちら</p>
             </div>
           </div>
         </div>
@@ -619,4 +601,3 @@ export default function BasashiLP() {
     </SharedLayout>
   )
 }
-
