@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   keywords: "会津馬刺し,馬刺し,桜肉,会津ブランド認定,会津ブランド館,馬肉,グルメ,お取り寄せ,ギフト",
   alternates: {
-    canonical: "https://aizubrandhall.com/basashi",
+    canonical: "https://www.aizubrandhall-lp2.com/basashi",
   },
 }
 

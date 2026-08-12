@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   keywords:
     "炊き込みチャーシュー飯,喜多方ラーメン,簡単調理,チャーシュー,炊き込みご飯,会津ブランド館,常温保存,備蓄食,ご飯の素",
   alternates: {
-    canonical: "https://aizubrandhall.com/takikomimeshi",
+    canonical: "https://www.aizubrandhall-lp2.com/takikomimeshi",
   },
 }
 

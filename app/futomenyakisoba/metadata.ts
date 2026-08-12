@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   keywords: "極太麺焼きそば,業務用焼きそば,常温保存,会津ブランド館,イベント用,防災備蓄,焼きそば麺",
   alternates: {
-    canonical: "https://aizubrandhall.com/futomenyakisoba",
+    canonical: "https://www.aizubrandhall-lp2.com/futomenyakisoba",
   },
 }
 
