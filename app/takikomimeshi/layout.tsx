@@ -12,22 +12,31 @@ export const metadata: Metadata = {
     images: [
       {
         url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-7PEnf4iT9wSFEkWHQLHlFGxGHaz8pV.jpeg",
-        width: 1200,
-        height: 630,
+        width: 1217,
+        height: 647,
         alt: "炊き込みチャーシュー飯 - チャーシューと煮卵がたっぷり入った贅沢な一品",
+        type: "image/jpeg",
       },
     ],
     locale: "ja_JP",
     type: "website",
     siteName: "会津ブランド館",
+    url: "https://www.aizubrandhall-lp2.com/takikomimeshi",
   },
   twitter: {
     card: "summary_large_image",
+    site: "@Aizu_Brand_Kan",
+    creator: "@Aizu_Brand_Kan",
     title: "ラーメン屋が作る本格炊き込みチャーシュー飯 | 炊飯器で簡単調理",
     description:
       "本格ラーメン屋のチャーシューたっぷり120g入り。星醸造の醤油だれで喜多方ラーメンの味わいを再現。炊飯器に入れるだけの簡単調理。",
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-7PEnf4iT9wSFEkWHQLHlFGxGHaz8pV.jpeg",
+      {
+        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-7PEnf4iT9wSFEkWHQLHlFGxGHaz8pV.jpeg",
+        alt: "炊き込みチャーシュー飯 - チャーシューと煮卵がたっぷり入った贅沢な一品",
+        width: 1217,
+        height: 647,
+      },
     ],
   },
   keywords:
