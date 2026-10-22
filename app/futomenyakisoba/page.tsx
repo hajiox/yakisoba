@@ -104,7 +104,7 @@ export default function FutomenyakisobaPage() {
                 <p className="text-sm sm:text-base mb-2">常温長期保存5ヶ月</p>
                 <p className="text-sm sm:text-base mb-4">飲食店・イベント向け業務用セット</p>
                 <div className="flex items-center justify-between">
-                  <p className="text-xl sm:text-2xl font-bold">¥7,840</p>
+                  <p className="text-xl sm:text-2xl font-bold">¥8,720</p>
                   <p className="text-xl sm:text-2xl font-bold">送料無料</p>
                 </div>
               </div>
