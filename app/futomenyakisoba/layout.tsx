@@ -4,11 +4,11 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "【業務用】極太麺焼きそば｜常温5ヶ月保存可能な本格太麺 | 会津ブランド館",
   description:
-    "もちもち食感の極太麺焼きそば。常温5ヶ月保存可能で、飲食店やイベント出店に最適。1食あたり約86円の高コスパ、14時までの注文で即日発送。防災備蓄食としても人気の業務用焼きそば麺をお届けします。",
+    "もちもち食感の極太麺焼きそば。常温5ヶ月保存可能で、飲食店やイベント出店に最適。1食あたり109円の高コスパ、14時までの注文で即日発送。防災備蓄食としても人気の業務用焼きそば麺をお届けします。",
   openGraph: {
     title: "【業務用】極太麺焼きそば｜常温5ヶ月保存可能な本格太麺",
     description:
-      "もちもち食感の極太麺焼きそば。常温5ヶ月保存可能で、飲食店やイベント出店に最適。1食あたり約86円の高コスパ、14時までの注文で即日発送。",
+      "もちもち食感の極太麺焼きそば。常温5ヶ月保存可能で、飲食店やイベント出店に最適。1食あたり109円の高コスパ、14時までの注文で即日発送。",
     images: [
       {
         url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-v2ieQ8TFRLHC1MEzMEaMjXRgmv7uPZ.jpeg",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     creator: "@Aizu_Brand_Kan",
     title: "【業務用】極太麺焼きそば｜常温5ヶ月保存可能な本格太麺",
     description:
-      "もちもち食感の極太麺焼きそば。常温5ヶ月保存可能で、飲食店やイベント出店に最適。1食あたり約86円の高コスパ。",
+      "もちもち食感の極太麺焼きそば。常温5ヶ月保存可能で、飲食店やイベント出店に最適。1食あたり109円の高コスパ。",
     images: [
       {
         url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/OGP_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-v2ieQ8TFRLHC1MEzMEaMjXRgmv7uPZ.jpeg",
